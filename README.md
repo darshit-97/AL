@@ -1,2 +1,2 @@
-# AL-Language
+# AL-Programming
 Development in D365BC extentions
