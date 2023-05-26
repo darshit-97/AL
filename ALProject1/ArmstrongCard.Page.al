@@ -1,4 +1,4 @@
-page 50114 "Armstrong Card"
+page 50113 "Armstrong Card"
 {
     PageType = Card;
     ApplicationArea = All;
