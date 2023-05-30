@@ -1,3 +1,6 @@
+/// <summary>
+/// Page DataTypeCardPage (ID 50110).
+/// </summary>
 page 50110 DataTypeCardPage
 {
     PageType = Card;

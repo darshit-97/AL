@@ -1,3 +1,6 @@
+/// <summary>
+/// Page Expressions Card (ID 50111).
+/// </summary>
 page 50111 "Expressions Card"
 {
     PageType = Card;

@@ -1,3 +1,6 @@
+/// <summary>
+/// Page Armstrong Card (ID 50113).
+/// </summary>
 page 50113 "Armstrong Card"
 {
     PageType = Card;

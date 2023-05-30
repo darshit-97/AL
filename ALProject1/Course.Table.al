@@ -1,3 +1,6 @@
+/// <summary>
+/// Table CRONUS Course (ID 50114).
+/// </summary>
 table 50114 "CRONUS Course"
 {
     DataClassification = CustomerContent;
