@@ -1,4 +1,4 @@
-page 50110 MyPage
+page 50110 DataTypeCardPage
 {
     PageType = Card;
     ApplicationArea = All;
