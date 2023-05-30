@@ -66,7 +66,16 @@ page 50115 "CRONUS Course Card"
                 {
                     ApplicationArea = All;
                 }
+
+                field(Difficulty; Rec.Difficulty)
+                {
+                    ApplicationArea = All;
+                }
                 
+                field("Passing Rate"; Rec."Passing Rate")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }
