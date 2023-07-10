@@ -17,13 +17,13 @@ tableextension 50114 MyExtension extends Customer
             DataClassification = ToBeClassified;
         }
         
-        field(5012; "Instagram"; Text[50])
+        field(50112; "Instagram"; Text[50])
         {
             Caption = 'Instagram';
             DataClassification = ToBeClassified;
         }
 
-        field(5013; "LinkedIn"; Text[50])
+        field(50113; "LinkedIn"; Text[50])
         {
             Caption = 'LinkedIn';
             DataClassification = ToBeClassified;
